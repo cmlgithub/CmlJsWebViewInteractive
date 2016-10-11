@@ -1,2 +1,2 @@
 # CmlJsWebViewInteractive
-Android WebView and JavaScript 
+Android WebView and JavaScript Interactive
