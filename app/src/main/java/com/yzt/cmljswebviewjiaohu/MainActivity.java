@@ -1,5 +1,6 @@
 package com.yzt.cmljswebviewjiaohu;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
@@ -26,6 +27,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
 
         Button show = (Button) findViewById(R.id.show);
         Button sendToJs = (Button) findViewById(R.id.sendToJs);
