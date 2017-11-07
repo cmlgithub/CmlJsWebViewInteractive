@@ -12,7 +12,8 @@ public class WelcomeActivity extends ListActivity {
 
     DemoBean[] demoBeen = {
             new DemoBean("android and js 交互 demo",MainActivity.class),
-            new DemoBean("html 全屏播放 demo",H5VideoActivity.class)
+            new DemoBean("html 全屏播放 demo",H5VideoActivity.class),
+            new DemoBean("click web pic ",ClickWebPicActivity.class)
     };
 
     @Override

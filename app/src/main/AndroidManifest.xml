@@ -21,7 +21,8 @@
             android:name=".H5VideoActivity"
             android:configChanges="orientation|screenSize|keyboardHidden"
             android:hardwareAccelerated="true" />
-        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".MainActivity" />
+        <activity android:name=".ClickWebPicActivity"></activity>
     </application>
 
 </manifest>
